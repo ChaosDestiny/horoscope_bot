@@ -1,0 +1,103 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Hello",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "I want to know my Horoscope",
+        "intent": "get_horoscope",
+        "entities": []
+      },
+      {
+        "text": "Can you please tell me my horoscope?",
+        "intent": "get_horoscope",
+        "entities": []
+      },
+      {
+        "text": "Please subscribe me",
+        "intent": "subscription",
+        "entities": []
+      },
+      {
+        "text": "Hi",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Hi there",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Hi horoscope_bot",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Hello horoscope_bot",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "I want some information about my horoscope",
+        "intent": "get_horoscope",
+        "entities": []
+      },
+      {
+        "text": "Subscribe me please",
+        "intent": "subscription",
+        "entities": []
+      },
+      {
+        "text": "My horoscope, please",
+        "intent": "get_horoscope",
+        "entities": []
+      },
+      {
+        "text": "Please let me know more about my horoscope",
+        "intent": "get_horoscope",
+        "entities": []
+      },
+      {
+        "text": "Nice to see you",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "good morning",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "good afternoon",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Hey man",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Howdy!",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Yo!",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Please make me a subscription",
+        "intent": "subscription",
+        "entities": []
+      }
+    ],
+    "regex_feature": [],
+    "entity_synonyms": []
+  }
+}

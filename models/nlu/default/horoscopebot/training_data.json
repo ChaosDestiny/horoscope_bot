@@ -1,0 +1,84 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "get_horoscope",
+        "text": "I want to know my Horoscope"
+      },
+      {
+        "intent": "get_horoscope",
+        "text": "Can you please tell me my horoscope?"
+      },
+      {
+        "intent": "subscription",
+        "text": "Please subscribe me"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi there"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi horoscope_bot"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello horoscope_bot"
+      },
+      {
+        "intent": "get_horoscope",
+        "text": "I want some information about my horoscope"
+      },
+      {
+        "intent": "subscription",
+        "text": "Subscribe me please"
+      },
+      {
+        "intent": "get_horoscope",
+        "text": "My horoscope, please"
+      },
+      {
+        "intent": "get_horoscope",
+        "text": "Please let me know more about my horoscope"
+      },
+      {
+        "intent": "greeting",
+        "text": "Nice to see you"
+      },
+      {
+        "intent": "greeting",
+        "text": "good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "good afternoon"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hey man"
+      },
+      {
+        "intent": "greeting",
+        "text": "Howdy!"
+      },
+      {
+        "intent": "greeting",
+        "text": "Yo!"
+      },
+      {
+        "intent": "subscription",
+        "text": "Please make me a subscription"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}
